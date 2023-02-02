@@ -1,0 +1,9 @@
+com\demo\springcrud\mapper\PersonMapperImpl.class
+com\demo\springcrud\mapper\PersonMapper.class
+com\demo\springcrud\service\PersonService.class
+com\demo\springcrud\model\Person.class
+com\demo\springcrud\SpringcrudApplication.class
+com\demo\springcrud\controller\PersonController.class
+com\demo\springcrud\repository\PersonRepository.class
+com\demo\springcrud\model\PersonResponse.class
+com\demo\springcrud\enttity\PersonEntity.class
